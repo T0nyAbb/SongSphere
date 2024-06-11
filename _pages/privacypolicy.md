@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 4 June 2024
+4 June 2024
 
 We appreciate you using SongSphere to play. This Privacy Policy explains to you how we gather, utilize, and share the information we get from you when you play.
 
