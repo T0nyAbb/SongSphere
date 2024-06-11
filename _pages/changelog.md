@@ -9,6 +9,21 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 0.9.2**
+In this SongSphere update we improved the overall quality of life and fixed some bugs.
+
+#### What's New
+- New App Icon
+- Added Italian localisation
+- Showing a warning when the host's device is muted
+- The last nickname typed will now be saved without having to type it everytime
+
+#### Bug Fixes
+- Fixed a bug that when the user didn't grant the permission to browse the local network, the view wouldn't update accordingly
+- Fixed a bug where the rings on the sphere weren't showing correctly
+- Fixed the top 3 ranking screen, and removed it when playing alone
+
+
 # **Version 0.9.1**
 In this SongSphere update we addressed an annoying bug that disconnects players when the host selects a playlist
 
