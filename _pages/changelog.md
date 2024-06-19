@@ -9,6 +9,16 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 0.9.4**
+In this update we improved SongSphere even more!
+
+#### What's New
+- Added new onboarding screen
+- Changed game mode selection screen
+
+#### Bug Fixes
+- Fixed a bug that causes the playlists to not load when launching the app for the first time
+
 # **Version 0.9.2**
 In this SongSphere update we improved the overall quality of life and fixed some bugs.
 
