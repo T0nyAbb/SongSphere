@@ -9,6 +9,25 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 0.9.6**
+Hotfix
+
+#### Bug Fixes
+- Fixed a bug that may cause a crash when showing the leaderboard
+
+
+# **Version 0.9.5**
+Welcome in this new SongSphere update!
+
+#### What's New
+- New Leaderboard animation
+- Improved search bar responsiveness when searching a playlist
+
+#### Bug Fixes
+- Fixed a visual glitch for the players when loading the playlist artwork
+- Fixed a bug that wouldn't display the playlists correctly for the host
+
+  
 # **Version 0.9.4**
 In this update we improved SongSphere even more!
 
